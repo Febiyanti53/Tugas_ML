@@ -17,7 +17,7 @@ import minotaur from "./assets/minotaur.png";
 import moskov from "./assets/moskov.png";
 import kadita from "./assets/kadita.png";
 import aldous from "./assets/aldous.png";
-import lapulapu from "./assets/lapulapu.png";
+import lapulapu from "./assets/lapu-lapu.png";
 
 const mlbbHeroData = [
   {
